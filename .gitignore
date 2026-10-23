@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+
+# Files created by Python and pytest
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor settings
+.idea/
+.vscode/
+
+# Local build files and temporary documents
+tmp/
+output/
+*.log
+*.zip
+
+# Saved games and Windows metadata
+saves/
+Thumbs.db
+Desktop.ini
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*

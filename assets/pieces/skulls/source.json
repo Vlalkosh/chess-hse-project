@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/maurimo/chess-art",
+  "commit": "d8705d8bc9879fef44208de19e2a20c937409e1f",
+  "directory": "fancy/skulls/",
+  "processing": "PNG rasterized from upstream SVG, transparent margins trimmed, scaled by piece type and centered on 256px canvas. Original SVG is available in the upstream repository at the listed commit."
+}
